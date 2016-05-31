@@ -2,11 +2,15 @@
   "name": "nodeschool-belfast",
   "version": "1.0.0",
   "description": "Web site for NodeSchool Belfast",
+  "license": "None",
   "scripts": {
     "start": "ws -p 8080"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nodeschool/belfast.git"
+  },
+  "dependencies": {
+    "local-web-server": "latest"
   }
 }
